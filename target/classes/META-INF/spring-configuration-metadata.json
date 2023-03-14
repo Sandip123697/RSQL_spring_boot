@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "com.behl.dolores",
+      "type": "com.behl.dolores.properties.PaginationProperties",
+      "sourceType": "com.behl.dolores.properties.PaginationProperties"
+    },
+    {
+      "name": "com.behl.dolores.pagination",
+      "type": "com.behl.dolores.properties.PaginationProperties$Pagination",
+      "sourceType": "com.behl.dolores.properties.PaginationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.behl.dolores.pagination.default-count",
+      "type": "java.lang.Integer",
+      "sourceType": "com.behl.dolores.properties.PaginationProperties$Pagination"
+    }
+  ],
+  "hints": []
+}
